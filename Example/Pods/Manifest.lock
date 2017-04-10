@@ -1,0 +1,16 @@
+PODS:
+  - pickerViewP (0.1.0)
+
+DEPENDENCIES:
+  - pickerViewP (from `../`)
+
+EXTERNAL SOURCES:
+  pickerViewP:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  pickerViewP: 87dbffab9f602ce661bedee8c9fb1f6e467b548e
+
+PODFILE CHECKSUM: 6a6311c1972978c5f6bc08b8063b709f2f959909
+
+COCOAPODS: 1.2.0
